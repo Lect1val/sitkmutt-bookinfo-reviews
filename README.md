@@ -10,3 +10,9 @@ docker build -t reviews .
 docker run -d --name reviews -p 8082:9080 reviews
 ```
 * Test with path `/reviews/1` and `/health`
+
+## How to run with Docker Compose
+
+```bash
+docker-compose up
+```
