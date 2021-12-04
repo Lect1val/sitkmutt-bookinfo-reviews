@@ -23,6 +23,6 @@ spec:
         - name: ENABLE_RATINGS
           value: "true"
         - name: RATINGS_SERVICE
-          value: "http://sitkmutt.bookinfo.dev.opsta.net/student47/ratings"
+          value: "http://sitkmutt.bookinfo.dev.opsta.net/student45/ratings"
       imagePullSecrets:
         - name: registry-bookinfo
